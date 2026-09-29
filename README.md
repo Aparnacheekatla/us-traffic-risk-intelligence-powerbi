@@ -146,4 +146,4 @@ Every KPI on the dashboard was checked against these totals from the source file
 ## 👤 Author
 
 **Aparna Cheekatla** · Open to Data Analyst / BI Analyst roles
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/aparnacheekatla/)
