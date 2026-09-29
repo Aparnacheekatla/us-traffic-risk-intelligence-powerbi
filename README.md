@@ -137,9 +137,9 @@ Every KPI on the dashboard was checked against these totals from the source file
 
 ## ▶️ How to Use
 
-1. Download `report/US Traffic Risk Intelligence review report.pbix`.
+1. Download the report: [US Traffic Risk Intelligence review report.pbix](report/US%20Traffic%20Risk%20Intelligence%20review%20report.pbix)
 2. Open it in **Power BI Desktop** (free, Windows).
-3. The data is already inside the .pbix. To reload it, unzip `data/US_Road_Accident_Data_2025_2026.zip` and point the source to the CSV (**Transform data → Data source settings**).
+3. The data is already inside the .pbix. To reload it, unzip [the dataset](data/US_Road_Accident_Data_2025_2026.zip) and point the source to the CSV (**Transform data → Data source settings**).
 
 ---
 
